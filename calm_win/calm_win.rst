@@ -489,14 +489,5 @@ Takeaways
 
 - Calm can natively execute remote PowerShell scripts on Windows endpoints without the need for a Windows-based proxy.
 
-Cleanup
-+++++++
-
-.. raw:: html
-
-  <strong><font color="red">Once your lab completion has been validated, PLEASE do your part to remove any unneeded VMs to ensure resources are available for all users on your shared cluster.</font></strong>
-
-If you do **NOT** intend to complete any of the *Optional* sections above, delete your application deployment in Calm.
-
 
 .. |projects| image:: images/projects.png
